@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21754" systemVersion="22F66" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="YES" userDefinedModelVersionIdentifier="">
+    <entity name="Product" representedClassName="Product" syncable="YES" codeGenerationType="class">
+        <attribute name="brand" optional="YES" attributeType="String" defaultValueString=""/>
+        <attribute name="completed" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="itemID" optional="YES" attributeType="String" defaultValueString="" spotlightIndexingEnabled="YES"/>
+        <attribute name="sources" optional="YES" attributeType="Binary"/>
+        <attribute name="xx2" optional="YES" attributeType="Binary"/>
+        <attribute name="xx3" optional="YES" attributeType="Binary"/>
+        <attribute name="xx4" optional="YES" attributeType="Binary"/>
+        <attribute name="xx5" optional="YES" attributeType="Binary"/>
+        <attribute name="xx6" optional="YES" attributeType="Binary"/>
+        <attribute name="xxx" optional="YES" attributeType="Binary"/>
+    </entity>
+</model>
